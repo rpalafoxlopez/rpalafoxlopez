@@ -1,0 +1,393 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2024, "month": 9},
+                    "dateEnd": {"string": "now"},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "fallbackFaIconColor": "#FF2D20",
+                    "locales": {
+                        "en": {
+                            "title": "Software Architect & Tech Lead",
+                            "description": "Design and development of Cobranza 360: multi-tenant SaaS for insurance policy management and collections (Laravel 9, Vue 3, MongoDB, Onion Architecture). Development of BUMO dashboard (mobile telephony): line management, plans, and carrier operations. Creation of EBITA accounting system: electronic SAT invoicing (CFDI), bank reconciliation, supplier management, accounts payable/receivable. Integration of AI agent for KPI analysis (OpenAI/Anthropic). Implementation of WhatsApp chatbot (Meta Cloud API) + n8n self-hosted orchestration. Infrastructure setup: dual-node Ubuntu servers, OpenVPN PKI, Docker Compose, Portainer CE, MongoDB Replica Set. Technical team leadership: PSR standards, code reviews, architectural documentation.",
+                            "province": "Puebla",
+                            "country": "Mexico",
+                            "institution": "DFSoft / MCBrokers",
+                            "tags": ["Laravel", "Vue 3", "MongoDB", "Onion Architecture", "DDD", "CQRS", "Docker", "WhatsApp API", "n8n", "OpenAI"]
+                        },
+                        "es": {
+                            "title": "Arquitecto de Software & Tech Lead",
+                            "description": "Diseño y desarrollo de Cobranza 360: plataforma SaaS multi-tenant para gestión de pólizas de seguros y cobranza (Laravel 9, Vue 3, MongoDB, Onion Architecture). Desarrollo del dashboard y sistema de BUMO (telefonía móvil). Creación del sistema contable EBITA: facturación electrónica SAT (CFDI), conciliación bancaria. Integración de agente IA de KPIs (OpenAI/Anthropic). Implementación de chatbot WhatsApp (Meta Cloud API) + n8n. Configuración de infraestructura: servidores Ubuntu dual-node, OpenVPN PKI, Docker Compose, MongoDB Replica Set. Liderazgo técnico del equipo.",
+                            "province": "Puebla",
+                            "country": "México",
+                            "institution": "DFSoft / MCBrokers",
+                            "tags": ["Laravel", "Vue 3", "MongoDB", "Arquitectura Onion", "DDD", "CQRS", "Docker", "WhatsApp API", "n8n", "OpenAI"]
+                        },
+                        "fr": {
+                            "title": "Architecte Logiciel & Tech Lead",
+                            "description": "Conception et développement de Cobranza 360 : SaaS multi-tenant pour la gestion des polices d'assurance et des recouvrements (Laravel 9, Vue 3, MongoDB, Architecture Onion). Développement du tableau de bord BUMO (téléphonie mobile) : gestion des lignes, forfaits et opérations. Création du système comptable EBITA : facturation électronique SAT (CFDI), rapprochement bancaire, gestion des fournisseurs, comptes fournisseurs/clients. Intégration d'un agent IA pour l'analyse des KPI (OpenAI/Anthropic). Implémentation d'un chatbot WhatsApp (Meta Cloud API) + orchestration n8n auto-hébergé. Configuration infrastructure : serveurs Ubuntu dual-node, OpenVPN PKI, Docker Compose, Portainer CE, MongoDB Replica Set. Leadership technique d'équipe : normes PSR, revues de code, documentation architecturale.",
+                            "province": "Puebla",
+                            "country": "Mexique",
+                            "institution": "DFSoft / MCBrokers",
+                            "tags": ["Laravel", "Vue 3", "MongoDB", "Architecture Onion", "DDD", "CQRS", "Docker", "WhatsApp API", "n8n", "OpenAI"]
+                        },
+                        "zh": {
+                            "title": "软件架构师 & 技术负责人",
+                            "description": "Cobranza 360的设计与开发：用于保险单管理和收款的多租户SaaS平台（Laravel 9、Vue 3、MongoDB、洋葱架构）。开发BUMO仪表板（移动电话）：线路管理、套餐和运营商操作。创建EBITA会计系统：电子SAT发票（CFDI）、银行对账、供应商管理、应付/应收账款。集成AI代理进行KPI分析（OpenAI/Anthropic）。实现WhatsApp聊天机器人（Meta Cloud API）+ n8n自托管编排。基础设施配置：双节点Ubuntu服务器、OpenVPN PKI、Docker Compose、Portainer CE、MongoDB副本集。技术团队领导：PSR标准、代码审查、架构文档。",
+                            "province": "普埃布拉",
+                            "country": "墨西哥",
+                            "institution": "DFSoft / MCBrokers",
+                            "tags": ["Laravel", "Vue 3", "MongoDB", "洋葱架构", "DDD", "CQRS", "Docker", "WhatsApp API", "n8n", "OpenAI"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2023, "month": 6},
+                    "dateEnd": {"year": 2024, "month": 9},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-envelope",
+                    "fallbackFaIconColor": "#0078D4",
+                    "locales": {
+                        "en": {
+                            "title": "Senior Marketing Developer",
+                            "description": "Management and execution of email marketing campaigns on Mailchimp, Virtuous, Salesforce Marketing Cloud, and HubSpot. Maintenance and technical support for high-impact websites: Bible League International, SGA, Digizent. HTML responsive email template design and newsletter sending. A/B testing design and execution. Client list segmentation and updates. Donation form creation for non-profit organizations. Cross-device/Cross-browser QA (Litmus, BrowserStack). Team training in Tailwind CSS, Vue 3, and Laravel. Award for outstanding campaign for SGA.",
+                            "province": "Puebla",
+                            "country": "Mexico",
+                            "institution": "Digizent",
+                            "tags": ["Mailchimp", "HubSpot", "Salesforce", "Litmus", "BrowserStack", "HTML Email", "A/B Testing"]
+                        },
+                        "es": {
+                            "title": "Senior Marketing Developer",
+                            "description": "Gestión de campañas de email marketing en Mailchimp, Virtuous, Salesforce Marketing Cloud y HubSpot. Soporte técnico de sitios web de alto impacto: Bible League International, SGA, Digizent. Maquetación de plantillas HTML responsivas. Pruebas A/B. Segmentación de listas. Formularios de donación. Control de calidad cross-device (Litmus, BrowserStack). Capacitación en Tailwind CSS, Vue 3 y Laravel. Premio por campaña destacada para SGA.",
+                            "province": "Puebla",
+                            "country": "México",
+                            "institution": "Digizent",
+                            "tags": ["Mailchimp", "HubSpot", "Salesforce", "Litmus", "BrowserStack", "Email HTML", "A/B Testing"]
+                        },
+                        "fr": {
+                            "title": "Développeur Marketing Senior",
+                            "description": "Gestion et exécution de campagnes d'email marketing sur Mailchimp, Virtuous, Salesforce Marketing Cloud et HubSpot. Maintenance et support technique de sites web à fort impact : Bible League International, SGA, Digizent. Conception de templates d'emails HTML responsives et envoi de newsletters. Conception et exécution de tests A/B. Segmentation et mise à jour de listes clients. Création de formulaires de don pour organisations à but non lucratif. QA cross-appareil/navigateur (Litmus, BrowserStack). Formation d'équipe sur Tailwind CSS, Vue 3 et Laravel. Prix pour une campagne remarquable pour SGA.",
+                            "province": "Puebla",
+                            "country": "Mexique",
+                            "institution": "Digizent",
+                            "tags": ["Mailchimp", "HubSpot", "Salesforce", "Litmus", "BrowserStack", "Email HTML", "Tests A/B"]
+                        },
+                        "zh": {
+                            "title": "高级营销开发人员",
+                            "description": "在Mailchimp、Virtuous、Salesforce Marketing Cloud和HubSpot上管理和执行电子邮件营销活动。高影响力网站的维护和技术支持：Bible League International、SGA、Digizent。HTML响应式电子邮件模板设计和新闻通讯发送。A/B测试设计与执行。客户列表细分和更新。为非营利组织创建捐赠表单。跨设备/跨浏览器QA（Litmus、BrowserStack）。团队培训：Tailwind CSS、Vue 3和Laravel。因SGA的杰出活动而获奖。",
+                            "province": "普埃布拉",
+                            "country": "墨西哥",
+                            "institution": "Digizent",
+                            "tags": ["Mailchimp", "HubSpot", "Salesforce", "Litmus", "BrowserStack", "HTML邮件", "A/B测试"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2023, "month": 6},
+                    "dateEnd": {"year": 2024, "month": 9},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-php",
+                    "fallbackFaIconColor": "#777BB4",
+                    "locales": {
+                        "en": {
+                            "title": "Backend Developer (Freelance)",
+                            "description": "Parallel freelance backend projects: development of modules and APIs prior to full-time incorporation.",
+                            "province": "Puebla",
+                            "country": "Mexico",
+                            "institution": "DFSoft / MCBrokers (Freelance)",
+                            "tags": ["PHP", "Laravel", "REST APIs"]
+                        },
+                        "es": {
+                            "title": "Backend Developer (Freelance)",
+                            "description": "Proyectos de backend freelance en paralelo: desarrollo de módulos y APIs previo a incorporación de tiempo completo.",
+                            "province": "Puebla",
+                            "country": "México",
+                            "institution": "DFSoft / MCBrokers (Freelance)",
+                            "tags": ["PHP", "Laravel", "REST APIs"]
+                        },
+                        "fr": {
+                            "title": "Développeur Backend (Freelance)",
+                            "description": "Projets backend freelance en parallèle : développement de modules et d'APIs avant l'incorporation à temps plein.",
+                            "province": "Puebla",
+                            "country": "Mexique",
+                            "institution": "DFSoft / MCBrokers (Freelance)",
+                            "tags": ["PHP", "Laravel", "APIs REST"]
+                        },
+                        "zh": {
+                            "title": "后端开发人员（自由职业）",
+                            "description": "并行自由职业后端项目：在全职加入之前开发模块和API。",
+                            "province": "普埃布拉",
+                            "country": "墨西哥",
+                            "institution": "DFSoft / MCBrokers（自由职业）",
+                            "tags": ["PHP", "Laravel", "REST API"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2018, "month": 3},
+                    "dateEnd": {"year": 2023, "month": 6},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-shield-haltered",
+                    "fallbackFaIconColor": "#2C3E50",
+                    "locales": {
+                        "en": {
+                            "title": "Full Stack Developer",
+                            "description": "Complete development of SAGBI system (private security): guard module, administrative control panel, and time clock system. REST API for mobile apps (Android/iOS) integrated with SAGBI. Facial recognition module for access control. On-site server configuration for clients: LAN network, application server, and database server.",
+                            "province": "Puebla",
+                            "country": "Mexico",
+                            "institution": "SINPROL",
+                            "tags": ["PHP", "Laravel", "REST API", "Facial Recognition", "MySQL"]
+                        },
+                        "es": {
+                            "title": "Desarrollador Full Stack",
+                            "description": "Desarrollo completo del sistema SAGBI (seguridad privada): módulo de guardias, panel de control administrativo y sistema de reloj checador. API REST para apps móviles (Android/iOS). Módulo de identificación facial. Configuración de servidores locales en sitio.",
+                            "province": "Puebla",
+                            "country": "México",
+                            "institution": "SINPROL",
+                            "tags": ["PHP", "Laravel", "API REST", "Reconocimiento Facial", "MySQL"]
+                        },
+                        "fr": {
+                            "title": "Développeur Full Stack",
+                            "description": "Développement complet du système SAGBI (sécurité privée) : module de gardes, panneau de contrôle administratif et système de pointage horaire. API REST pour applications mobiles (Android/iOS) intégrée à SAGBI. Module de reconnaissance faciale pour contrôle d'accès. Configuration de serveurs sur site pour clients : réseau LAN, serveur d'applications et serveur de base de données.",
+                            "province": "Puebla",
+                            "country": "Mexique",
+                            "institution": "SINPROL",
+                            "tags": ["PHP", "Laravel", "API REST", "Reconnaissance Faciale", "MySQL"]
+                        },
+                        "zh": {
+                            "title": "全栈开发人员",
+                            "description": "完整开发SAGBI系统（私人安保）：警卫模块、行政控制面板和考勤系统。集成SAGBI的移动应用（Android/iOS）REST API。用于门禁控制的人脸识别模块。为客户进行现场服务器配置：LAN网络、应用服务器和数据库服务器。",
+                            "province": "普埃布拉",
+                            "country": "墨西哥",
+                            "institution": "SINPROL",
+                            "tags": ["PHP", "Laravel", "REST API", "人脸识别", "MySQL"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2017, "month": 5},
+                    "dateEnd": {"year": 2017, "month": 11},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-stethoscope",
+                    "fallbackFaIconColor": "#16A085",
+                    "locales": {
+                        "en": {
+                            "title": "Full Stack Developer & Tech Lead",
+                            "description": "Development of Lexa Medics: platform for private physician network centralizing SAT accounting (CFDI invoicing, tax returns), internal payroll, and clinical staff payroll. Responsive website development. Mass email marketing campaigns with Mautic. Infrastructure: WAN/LAN cabling, telephone nodes, security cameras, biometric equipment.",
+                            "province": "Puebla",
+                            "country": "Mexico",
+                            "institution": "Lexa Consulting",
+                            "tags": ["PHP", "Laravel", "CFDI", "Mautic", "Infrastructure"]
+                        },
+                        "es": {
+                            "title": "Full Stack Developer & Líder Técnico",
+                            "description": "Desarrollo de Lexa Medics: plataforma para red de médicos privados con gestión contable ante el SAT (facturación CFDI, declaraciones), nómina interna y externa. Campañas de email marketing con Mautic. Infraestructura: cableado WAN/LAN, nodos telefónicos, cámaras de seguridad.",
+                            "province": "Puebla",
+                            "country": "México",
+                            "institution": "Lexa Consulting",
+                            "tags": ["PHP", "Laravel", "CFDI", "Mautic", "Infraestructura"]
+                        },
+                        "fr": {
+                            "title": "Développeur Full Stack & Tech Lead",
+                            "description": "Développement de Lexa Medics : plateforme pour réseau de médecins privés centralisant la comptabilité SAT (facturation CFDI, déclarations fiscales), paie interne et paie du personnel clinique. Développement de sites web responsives. Campagnes d'email marketing massif avec Mautic. Infrastructure : câblage WAN/LAN, nœuds téléphoniques, caméras de sécurité, équipements biométriques.",
+                            "province": "Puebla",
+                            "country": "Mexique",
+                            "institution": "Lexa Consulting",
+                            "tags": ["PHP", "Laravel", "CFDI", "Mautic", "Infrastructure"]
+                        },
+                        "zh": {
+                            "title": "全栈开发人员 & 技术负责人",
+                            "description": "开发Lexa Medics：为私人医生网络提供平台，集中SAT会计（CFDI发票、纳税申报）、内部工资单和临床人员工资单。响应式网站开发。使用Mautic进行大规模电子邮件营销活动。基础设施：WAN/LAN布线、电话节点、安全摄像头、生物识别设备。",
+                            "province": "普埃布拉",
+                            "country": "墨西哥",
+                            "institution": "Lexa Consulting",
+                            "tags": ["PHP", "Laravel", "CFDI", "Mautic", "基础设施"]
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2017, "month": 1},
+                    "dateEnd": {"year": 2017, "month": 12},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "fallbackFaIconColor": "#FF2D20",
+                    "locales": {
+                        "en": {
+                            "title": "Web Programmer & Project Leader",
+                            "description": "Development of web applications with Laravel Framework as main stack. Project leadership: requirements management, task assignment, client delivery.",
+                            "province": "Puebla",
+                            "country": "Mexico",
+                            "institution": "D-Cubica (D3)",
+                            "tags": ["Laravel", "Project Management", "PHP"]
+                        },
+                        "es": {
+                            "title": "Programador Web & Líder de Proyecto",
+                            "description": "Desarrollo de aplicaciones web con Laravel Framework. Liderazgo de proyectos: gestión de requerimientos, asignación de tareas, entrega a cliente.",
+                            "province": "Puebla",
+                            "country": "México",
+                            "institution": "D-Cubica (D3)",
+                            "tags": ["Laravel", "Gestión de Proyectos", "PHP"]
+                        },
+                        "fr": {
+                            "title": "Programmeur Web & Chef de Projet",
+                            "description": "Développement d'applications web avec Laravel Framework comme stack principal. Leadership de projet : gestion des exigences, assignation des tâches, livraison client.",
+                            "province": "Puebla",
+                            "country": "Mexique",
+                            "institution": "D-Cubica (D3)",
+                            "tags": ["Laravel", "Gestion de Projet", "PHP"]
+                        },
+                        "zh": {
+                            "title": "网页程序员 & 项目负责人",
+                            "description": "使用Laravel框架作为主要技术栈开发Web应用。项目领导：需求管理、任务分配、客户交付。",
+                            "province": "普埃布拉",
+                            "country": "墨西哥",
+                            "institution": "D-Cubica (D3)",
+                            "tags": ["Laravel", "项目管理", "PHP"]
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "dateStart": {"year": 2014, "month": 10},
+                    "dateEnd": {"year": 2015, "month": 5},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-credit-card",
+                    "fallbackFaIconColor": "#E67E22",
+                    "locales": {
+                        "en": {
+                            "title": "Web Programmer & Technical Support",
+                            "description": "Development and maintenance of Syscredit credit system (PHP, MySQL). Technical support, database administration, LAN network cabling.",
+                            "province": "Puebla",
+                            "country": "Mexico",
+                            "institution": "TICAL Impulsora (SOFOM ENR)",
+                            "tags": ["PHP", "MySQL", "Technical Support"]
+                        },
+                        "es": {
+                            "title": "Programador Web & Soporte Técnico",
+                            "description": "Desarrollo y mantenimiento del sistema de crédito Syscredit (PHP, MySQL). Soporte técnico, administración de BD, cableado de redes LAN.",
+                            "province": "Puebla",
+                            "country": "México",
+                            "institution": "TICAL Impulsora (SOFOM ENR)",
+                            "tags": ["PHP", "MySQL", "Soporte Técnico"]
+                        },
+                        "fr": {
+                            "title": "Programmeur Web & Support Technique",
+                            "description": "Développement et maintenance du système de crédit Syscredit (PHP, MySQL). Support technique, administration de bases de données, câblage réseau LAN.",
+                            "province": "Puebla",
+                            "country": "Mexique",
+                            "institution": "TICAL Impulsora (SOFOM ENR)",
+                            "tags": ["PHP", "MySQL", "Support Technique"]
+                        },
+                        "zh": {
+                            "title": "网页程序员 & 技术支持",
+                            "description": "Syscredit信贷系统的开发和维护（PHP、MySQL）。技术支持、数据库管理、LAN网络布线。",
+                            "province": "普埃布拉",
+                            "country": "墨西哥",
+                            "institution": "TICAL Impulsora (SOFOM ENR)",
+                            "tags": ["PHP", "MySQL", "技术支持"]
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "dateStart": {"year": 2012, "month": 8},
+                    "dateEnd": {"year": 2014, "month": 10},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-globe",
+                    "fallbackFaIconColor": "#3498DB",
+                    "locales": {
+                        "en": {
+                            "title": "Web Programmer",
+                            "description": "Development of hybrid web apps (Android, iOS, Firefox OS), WordPress widgets, and websites. Database management and server administration.",
+                            "province": "Puebla",
+                            "country": "Mexico",
+                            "institution": "ABD Systems",
+                            "tags": ["PHP", "Hybrid Apps", "WordPress", "MySQL"]
+                        },
+                        "es": {
+                            "title": "Programador Web",
+                            "description": "Desarrollo de web apps híbridas (Android, iOS, Firefox OS), widgets para WordPress y sitios web. Manejo de bases de datos y administración de servidores.",
+                            "province": "Puebla",
+                            "country": "México",
+                            "institution": "ABD Systems",
+                            "tags": ["PHP", "Apps Híbridas", "WordPress", "MySQL"]
+                        },
+                        "fr": {
+                            "title": "Programmeur Web",
+                            "description": "Développement d'applications web hybrides (Android, iOS, Firefox OS), de widgets WordPress et de sites web. Gestion de bases de données et administration de serveurs.",
+                            "province": "Puebla",
+                            "country": "Mexique",
+                            "institution": "ABD Systems",
+                            "tags": ["PHP", "Apps Hybrides", "WordPress", "MySQL"]
+                        },
+                        "zh": {
+                            "title": "网页程序员",
+                            "description": "开发混合Web应用（Android、iOS、Firefox OS）、WordPress小部件和网站。数据库管理和服务器管理。",
+                            "province": "普埃布拉",
+                            "country": "墨西哥",
+                            "institution": "ABD Systems",
+                            "tags": ["PHP", "混合应用", "WordPress", "MySQL"]
+                        }
+                    }
+                },
+                {
+                    "id": 9,
+                    "dateStart": {"year": 2017, "month": 1},
+                    "dateEnd": {"year": 2024, "month": 12},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-briefcase",
+                    "fallbackFaIconColor": "#2ECC71",
+                    "locales": {
+                        "en": {
+                            "title": "Backend Developer & Infrastructure Consultant",
+                            "description": "Kernen.app (Germany): backend development for digital tourism app. REST API in PHP/Laravel for POI management, routes, multilingual content. Solana Puebla: PBX switch installation, structured cabling, CCTV security camera system.",
+                            "province": "Puebla / Kernen",
+                            "country": "Mexico / Germany",
+                            "institution": "Freelance",
+                            "tags": ["Laravel", "REST API", "PBX", "CCTV", "Infrastructure"]
+                        },
+                        "es": {
+                            "title": "Backend Developer & Consultor de Infraestructura",
+                            "description": "Kernen.app (Alemania): desarrollo backend para app de turismo digital. API REST en PHP/Laravel. Solana Puebla: instalación de conmutadores (PBX), cableado estructurado, sistema de cámaras CCTV.",
+                            "province": "Puebla / Kernen",
+                            "country": "México / Alemania",
+                            "institution": "Freelance",
+                            "tags": ["Laravel", "API REST", "PBX", "CCTV", "Infraestructura"]
+                        },
+                        "fr": {
+                            "title": "Développeur Backend & Consultant Infrastructure",
+                            "description": "Kernen.app (Allemagne) : développement backend pour application de tourisme numérique. API REST en PHP/Laravel pour la gestion des POI, itinéraires, contenu multilingue. Solana Puebla : installation de commutateurs PBX, câblage structuré, système de caméras de sécurité CCTV.",
+                            "province": "Puebla / Kernen",
+                            "country": "Mexique / Allemagne",
+                            "institution": "Freelance",
+                            "tags": ["Laravel", "API REST", "PBX", "CCTV", "Infrastructure"]
+                        },
+                        "zh": {
+                            "title": "后端开发人员 & 基础设施顾问",
+                            "description": "Kernen.app（德国）：数字旅游应用的后端开发。用于POI管理、路线、多语言内容的PHP/Laravel REST API。Solana Puebla：PBX交换机安装、结构化布线、CCTV安全摄像头系统。",
+                            "province": "普埃布拉 / 凯尔嫩",
+                            "country": "墨西哥 / 德国",
+                            "institution": "自由职业",
+                            "tags": ["Laravel", "REST API", "PBX", "CCTV", "基础设施"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

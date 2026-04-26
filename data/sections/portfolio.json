@@ -1,0 +1,368 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "title": null,
+                    "category_all": "All",
+                    "category_saas": "SaaS Platforms",
+                    "category_backend": "Backend Systems",
+                    "category_packages": "Composer Packages",
+                    "category_prototypes": "Prototypes & Demos"
+                },
+                "es": {
+                    "title": null,
+                    "category_all": "Todos",
+                    "category_saas": "Plataformas SaaS",
+                    "category_backend": "Sistemas Backend",
+                    "category_packages": "Paquetes Composer",
+                    "category_prototypes": "Prototipos y Demos"
+                },
+                "fr": {
+                    "title": null,
+                    "category_all": "Tous",
+                    "category_saas": "Plateformes SaaS",
+                    "category_backend": "Systèmes Backend",
+                    "category_packages": "Paquets Composer",
+                    "category_prototypes": "Prototypes et Démonstrations"
+                },
+                "zh": {
+                    "title": null,
+                    "category_all": "全部",
+                    "category_saas": "SaaS平台",
+                    "category_backend": "后端系统",
+                    "category_packages": "Composer包",
+                    "category_prototypes": "原型与演示"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-github",
+                    "fallbackFaIconColor": "#181717",
+                    "category": "packages",
+                    "locales": {
+                        "en": {
+                            "title": "Gantt Budget",
+                            "description": "A reusable Composer package for generating interactive Gantt charts and budget visualizations within Laravel applications. Designed to simplify project management and financial tracking through intuitive graphical representations.",
+                            "tags": ["composer", "gantt-chart", "laravel", "budget", "visualization"]
+                        },
+                        "es": {
+                            "title": "Gantt Budget",
+                            "description": "Paquete reutilizable para Composer que genera diagramas de Gantt interactivos y visualizaciones presupuestarias dentro de aplicaciones Laravel. Diseñado para simplificar la gestión de proyectos y el seguimiento financiero mediante representaciones gráficas intuitivas.",
+                            "tags": ["composer", "diagrama-gantt", "laravel", "presupuesto", "visualización"]
+                        },
+                        "fr": {
+                            "title": "Gantt Budget",
+                            "description": "Un paquet Composer réutilisable pour générer des diagrammes de Gantt interactifs et des visualisations budgétaires au sein d'applications Laravel. Conçu pour simplifier la gestion de projet et le suivi financier grâce à des représentations graphiques intuitives.",
+                            "tags": ["composer", "diagramme-gantt", "laravel", "budget", "visualisation"]
+                        },
+                        "zh": {
+                            "title": "Gantt Budget",
+                            "description": "一个可复用的Composer包，用于在Laravel应用中生成交互式甘特图和预算可视化。通过直观的图形表示，旨在简化项目管理和财务跟踪。",
+                            "tags": ["composer", "甘特图", "laravel", "预算", "可视化"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/rpalafoxlopez/ganttpresupuesto", "stringKey": "view_on_github"}
+                    ]
+                },
+                {
+                    "id": 2,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-github",
+                    "fallbackFaIconColor": "#181717",
+                    "category": "prototypes",
+                    "locales": {
+                        "en": {
+                            "title": "Fireflies AR",
+                            "description": "Experimental prototype exploring augmented reality experiences in the browser. Built with HTML5 and modern web standards, this project demonstrates interactive visual effects and real-time animations.",
+                            "tags": ["augmented-reality", "html5", "prototype", "visual-effects", "interactive"]
+                        },
+                        "es": {
+                            "title": "Fireflies AR",
+                            "description": "Prototipo experimental que explora experiencias de realidad aumentada en el navegador. Construido con HTML5 y estándares web modernos, este proyecto demuestra efectos visuales interactivos y animaciones en tiempo real.",
+                            "tags": ["realidad-aumentada", "html5", "prototipo", "efectos-visuales", "interactivo"]
+                        },
+                        "fr": {
+                            "title": "Fireflies AR",
+                            "description": "Prototype expérimental explorant les expériences de réalité augmentée dans le navigateur. Construit avec HTML5 et les standards web modernes, ce projet démontre des effets visuels interactifs et des animations en temps réel.",
+                            "tags": ["réalité-augmentée", "html5", "prototype", "effets-visuels", "interactif"]
+                        },
+                        "zh": {
+                            "title": "Fireflies AR",
+                            "description": "探索浏览器中增强现实体验的实验性原型。使用HTML5和现代Web标准构建，该项目展示了交互式视觉效果和实时动画。",
+                            "tags": ["增强现实", "html5", "原型", "视觉效果", "交互式"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/rpalafoxlopez/firefliesar", "stringKey": "view_on_github"}
+                    ]
+                },
+                {
+                    "id": 3,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-github",
+                    "fallbackFaIconColor": "#181717",
+                    "category": "prototypes",
+                    "locales": {
+                        "en": {
+                            "title": "MC Quiz April",
+                            "description": "Interactive quiz application demo developed for knowledge assessment and training purposes. Features dynamic question loading, real-time scoring, and responsive interface.",
+                            "tags": ["quiz", "interactive", "demo", "javascript", "html5"]
+                        },
+                        "es": {
+                            "title": "MC Quiz Abril",
+                            "description": "Demo de aplicación de cuestionarios interactiva desarrollada para evaluaciones de conocimiento y fines de capacitación. Cuenta con carga dinámica de preguntas, puntuación en tiempo real e interfaz responsiva.",
+                            "tags": ["cuestionario", "interactivo", "demo", "javascript", "html5"]
+                        },
+                        "fr": {
+                            "title": "MC Quiz Avril",
+                            "description": "Démonstration d'application de quiz interactive développée pour l'évaluation des connaissances et la formation. Dispose d'un chargement dynamique des questions, d'un score en temps réel et d'une interface responsive.",
+                            "tags": ["quiz", "interactif", "démo", "javascript", "html5"]
+                        },
+                        "zh": {
+                            "title": "MC Quiz Abril",
+                            "description": "为知识评估和培训目的开发的交互式测验应用演示。具有动态问题加载、实时评分和响应式界面。",
+                            "tags": ["测验", "交互式", "演示", "javascript", "html5"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/rpalafoxlopez/mcbquizabril", "stringKey": "view_on_github"}
+                    ]
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-layer-group",
+                    "fallbackFaIconColor": "#FF2D20",
+                    "category": "saas",
+                    "locales": {
+                        "en": {
+                            "title": "Horns Platform",
+                            "description": "All-in-one SaaS platform integrating CRM, LMS, and omnichannel communication. Built with Laravel 11 Octane/Swoole, MongoDB Replica Set, Vue 3 + Vue Flow Builder, n8n, Meta WhatsApp Cloud API, Qdrant, and Redis/Horizon. Implements Onion Architecture with DDD and hybrid multi-tenancy.",
+                            "tags": ["saas", "crm", "lms", "laravel", "mongodb", "vue3", "whatsapp-api", "n8n"]
+                        },
+                        "es": {
+                            "title": "Horns Platform",
+                            "description": "Plataforma SaaS todo-en-uno que integra CRM, LMS y comunicación omnicanal. Construida con Laravel 11 Octane/Swoole, MongoDB Replica Set, Vue 3 + Vue Flow Builder, n8n, Meta WhatsApp Cloud API, Qdrant y Redis/Horizon. Implementa Arquitectura Onion con DDD y multi-tenencia híbrida.",
+                            "tags": ["saas", "crm", "lms", "laravel", "mongodb", "vue3", "whatsapp-api", "n8n"]
+                        },
+                        "fr": {
+                            "title": "Horns Platform",
+                            "description": "Plateforme SaaS tout-en-un intégrant CRM, LMS et communication omnicanale. Construite avec Laravel 11 Octane/Swoole, MongoDB Replica Set, Vue 3 + Vue Flow Builder, n8n, Meta WhatsApp Cloud API, Qdrant et Redis/Horizon. Implémente l'architecture Onion avec DDD et le multi-tenant hybride.",
+                            "tags": ["saas", "crm", "lms", "laravel", "mongodb", "vue3", "whatsapp-api", "n8n"]
+                        },
+                        "zh": {
+                            "title": "Horns Platform",
+                            "description": "一体化SaaS平台，集成了CRM、LMS和全渠道通信。使用Laravel 11 Octane/Swoole、MongoDB副本集、Vue 3 + Vue Flow Builder、n8n、Meta WhatsApp Cloud API、Qdrant和Redis/Horizon构建。采用洋葱架构实现DDD和混合多租户。",
+                            "tags": ["saas", "crm", "lms", "laravel", "mongodb", "vue3", "whatsapp-api", "n8n"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/rpalafoxlopez/horns-platform", "stringKey": "view_on_github", "isPrivate": true}
+                    ]
+                },
+                {
+                    "id": 5,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-chart-line",
+                    "fallbackFaIconColor": "#10B981",
+                    "category": "saas",
+                    "locales": {
+                        "en": {
+                            "title": "Micro-SaaS de Cobranza",
+                            "description": "Debtor tracking solution via WhatsApp, replacing manual Excel workflows. Built with Laravel 11, Livewire 3, Supabase, and Meta WhatsApp Cloud API. Currently in MVP roadmap phase.",
+                            "tags": ["saas", "whatsapp-api", "laravel", "livewire", "supabase", "collections"]
+                        },
+                        "es": {
+                            "title": "Micro-SaaS de Cobranza",
+                            "description": "Solución de seguimiento de deudores vía WhatsApp que reemplaza los flujos manuales en Excel. Construida con Laravel 11, Livewire 3, Supabase y Meta WhatsApp Cloud API. Actualmente en fase de roadmap para MVP.",
+                            "tags": ["saas", "whatsapp-api", "laravel", "livewire", "supabase", "cobranza"]
+                        },
+                        "fr": {
+                            "title": "Micro-SaaS de Cobranza",
+                            "description": "Solution de suivi des débiteurs via WhatsApp, remplaçant les flux manuels sur Excel. Construite avec Laravel 11, Livewire 3, Supabase et Meta WhatsApp Cloud API. Actuellement en phase de roadmap pour le MVP.",
+                            "tags": ["saas", "whatsapp-api", "laravel", "livewire", "supabase", "recouvrement"]
+                        },
+                        "zh": {
+                            "title": "Micro-SaaS de Cobranza",
+                            "description": "通过WhatsApp跟踪债务人的解决方案，取代手动Excel工作流程。使用Laravel 11、Livewire 3、Supabase和Meta WhatsApp Cloud API构建。目前处于MVP路线图阶段。",
+                            "tags": ["saas", "whatsapp-api", "laravel", "livewire", "supabase", "收款"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/rpalafoxlopez/cobranza-whatsapp", "stringKey": "view_on_github", "isPrivate": true}
+                    ]
+                },
+                {
+                    "id": 6,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-map-location-dot",
+                    "fallbackFaIconColor": "#3B82F6",
+                    "category": "backend",
+                    "locales": {
+                        "en": {
+                            "title": "Kernen.app",
+                            "description": "Backend for a digital tourism app developed for the city of Kernen im Remstal, Germany. REST API built with PHP/Laravel for managing points of interest (POIs), tourist routes, and multilingual content.",
+                            "tags": ["laravel", "rest-api", "tourism", "multilingual", "backend"]
+                        },
+                        "es": {
+                            "title": "Kernen.app",
+                            "description": "Backend para una aplicación de turismo digital desarrollada para la ciudad de Kernen im Remstal, Alemania. API REST construida con PHP/Laravel para la gestión de puntos de interés (POIs), rutas turísticas y contenido multilingüe.",
+                            "tags": ["laravel", "rest-api", "turismo", "multilingüe", "backend"]
+                        },
+                        "fr": {
+                            "title": "Kernen.app",
+                            "description": "Backend pour une application de tourisme numérique développée pour la ville de Kernen im Remstal, Allemagne. API REST construite avec PHP/Laravel pour la gestion des points d'intérêt (POI), des itinéraires touristiques et du contenu multilingue.",
+                            "tags": ["laravel", "api-rest", "tourisme", "multilingue", "backend"]
+                        },
+                        "zh": {
+                            "title": "Kernen.app",
+                            "description": "为德国凯尔嫩市开发的数字旅游应用后端。使用PHP/Laravel构建的REST API，用于管理兴趣点（POI）、旅游路线和多语言内容。",
+                            "tags": ["laravel", "rest-api", "旅游", "多语言", "后端"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-solid fa-globe", "href": "https://kernen.app", "stringKey": "visit_website"}
+                    ]
+                },
+                {
+                    "id": 7,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-credit-card",
+                    "fallbackFaIconColor": "#F59E0B",
+                    "category": "backend",
+                    "locales": {
+                        "en": {
+                            "title": "Lexa Medics",
+                            "description": "Platform for private physician networks centralizing SAT tax accounting (CFDI invoicing, tax returns), internal payroll, and clinical staff payroll. Includes mass email marketing with Mautic.",
+                            "tags": ["laravel", "cfdi", "sat", "payroll", "mautic", "accounting"]
+                        },
+                        "es": {
+                            "title": "Lexa Medics",
+                            "description": "Plataforma para redes de médicos privados que centraliza la contabilidad fiscal ante el SAT (facturación CFDI, declaraciones), nómina interna y nómina de personal clínico. Incluye email marketing masivo con Mautic.",
+                            "tags": ["laravel", "cfdi", "sat", "nómina", "mautic", "contabilidad"]
+                        },
+                        "fr": {
+                            "title": "Lexa Medics",
+                            "description": "Plateforme pour réseaux de médecins privés centralisant la comptabilité fiscale SAT (facturation CFDI, déclarations fiscales), paie interne et paie du personnel clinique. Inclut l'email marketing de masse avec Mautic.",
+                            "tags": ["laravel", "cfdi", "sat", "paie", "mautic", "comptabilité"]
+                        },
+                        "zh": {
+                            "title": "Lexa Medics",
+                            "description": "为私人医生网络提供平台，集中SAT税务会计（CFDI发票、纳税申报）、内部工资单和临床人员工资单。包含使用Mautic的大规模电子邮件营销。",
+                            "tags": ["laravel", "cfdi", "sat", "工资单", "mautic", "会计"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/rpalafoxlopez/lexa-medics", "stringKey": "view_on_github", "isPrivate": true}
+                    ]
+                },
+                {
+                    "id": 8,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-shield-haltered",
+                    "fallbackFaIconColor": "#2C3E50",
+                    "category": "backend",
+                    "locales": {
+                        "en": {
+                            "title": "SAGBI Security System",
+                            "description": "Complete private security management system including guard module, administrative dashboard, time clock system, and REST API for Android/iOS mobile apps. Features facial recognition for access control.",
+                            "tags": ["laravel", "rest-api", "facial-recognition", "security", "mysql"]
+                        },
+                        "es": {
+                            "title": "Sistema SAGBI de Seguridad",
+                            "description": "Sistema completo de gestión de seguridad privada que incluye módulo de guardias, panel administrativo, sistema de reloj checador y API REST para apps móviles Android/iOS. Cuenta con reconocimiento facial para control de acceso.",
+                            "tags": ["laravel", "api-rest", "reconocimiento-facial", "seguridad", "mysql"]
+                        },
+                        "fr": {
+                            "title": "Système de Sécurité SAGBI",
+                            "description": "Système complet de gestion de sécurité privée incluant module de gardes, tableau de bord administratif, système de pointage horaire et API REST pour applications mobiles Android/iOS. Fonctionnalité de reconnaissance faciale pour contrôle d'accès.",
+                            "tags": ["laravel", "api-rest", "reconnaissance-faciale", "sécurité", "mysql"]
+                        },
+                        "zh": {
+                            "title": "SAGBI安保系统",
+                            "description": "完整的私人安保管理系统，包括警卫模块、行政仪表板、考勤系统以及Android/iOS移动应用的REST API。具有用于门禁控制的人脸识别功能。",
+                            "tags": ["laravel", "rest-api", "人脸识别", "安保", "mysql"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/rpalafoxlopez/sagbi", "stringKey": "view_on_github", "isPrivate": true}
+                    ]
+                },
+                {
+                    "id": 9,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-calculator",
+                    "fallbackFaIconColor": "#EF4444",
+                    "category": "backend",
+                    "locales": {
+                        "en": {
+                            "title": "Syscredit",
+                            "description": "Credit management system developed for SOFOM institution. Handles loan origination, payment tracking, client management, and financial reporting.",
+                            "tags": ["php", "mysql", "credit-management", "sofom", "financial"]
+                        },
+                        "es": {
+                            "title": "Syscredit",
+                            "description": "Sistema de gestión de créditos desarrollado para institución SOFOM. Maneja originación de préstamos, seguimiento de pagos, gestión de clientes y reportes financieros.",
+                            "tags": ["php", "mysql", "gestión-crediticia", "sofom", "financiero"]
+                        },
+                        "fr": {
+                            "title": "Syscredit",
+                            "description": "Système de gestion de crédit développé pour une institution SOFOM. Gère l'octroi de prêts, le suivi des paiements, la gestion des clients et les rapports financiers.",
+                            "tags": ["php", "mysql", "gestion-crédit", "sofom", "financier"]
+                        },
+                        "zh": {
+                            "title": "Syscredit",
+                            "description": "为SOFOM机构开发的信贷管理系统。处理贷款发放、付款跟踪、客户管理和财务报告。",
+                            "tags": ["php", "mysql", "信贷管理", "sofom", "财务"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/rpalafoxlopez/syscredit", "stringKey": "view_on_github", "isPrivate": true}
+                    ]
+                },
+                {
+                    "id": 10,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-chalkboard-user",
+                    "fallbackFaIconColor": "#8B5CF6",
+                    "category": "prototypes",
+                    "locales": {
+                        "en": {
+                            "title": "Laravel Template",
+                            "description": "Boilerplate template for Laravel applications, providing a structured starting point for new projects with pre-configured settings and best practices.",
+                            "tags": ["laravel", "boilerplate", "template", "php"]
+                        },
+                        "es": {
+                            "title": "Laravel Template",
+                            "description": "Plantilla base para aplicaciones Laravel, que proporciona un punto de partida estructurado para nuevos proyectos con configuraciones predefinidas y mejores prácticas.",
+                            "tags": ["laravel", "boilerplate", "plantilla", "php"]
+                        },
+                        "fr": {
+                            "title": "Laravel Template",
+                            "description": "Modèle de base pour applications Laravel, fournissant un point de départ structuré pour de nouveaux projets avec des configurations prédéfinies et des bonnes pratiques.",
+                            "tags": ["laravel", "boilerplate", "modèle", "php"]
+                        },
+                        "zh": {
+                            "title": "Laravel Template",
+                            "description": "Laravel应用的基础模板，为新项目提供结构化的起点，包含预配置的设置和最佳实践。",
+                            "tags": ["laravel", "样板", "模板", "php"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/rpalafoxlopez/laraveltemplate", "stringKey": "view_on_github"}
+                    ]
+                }
+            ]
+        }
+    ]
+}

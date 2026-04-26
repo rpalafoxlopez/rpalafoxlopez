@@ -1,0 +1,58 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["address", "email", "phone"],
+                "contact_circles_ids": ["instagram", "facebook", "linkedin", "github"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "I've been a UX designer for 8 years, crafting user-friendly interfaces that feel natural, intuitive, and seamless across different devices. My passion lies in designing digital experiences that not only look great but also function effortlessly, making interactions smoother and more enjoyable."
+                        },
+
+                        "es": {
+                            "description": "Como Desarrollador Full Stack con una sólida trayectoria profesional que supera la década, he consolidado una expertise integral en el diseño, implementación y optimización de soluciones tecnológicas. Mi dominio abarca lenguajes y frameworks clave como PHP (especializado en Laravel y CodeIgniter), JavaScript (Vue.js, jQuery) y sistemas de gestión de bases de datos relacionales (MySQL, PostgreSQL, SQL Server).\n A lo largo de mi carrera, he liderado el desarrollo de sistemas empresariales críticos, incluyendo plataformas de gestión operativa, APIs RESTful para integración con aplicaciones móviles, y módulos avanzados de identificación biométrica. Complemento mis capacidades de programación con competencias en infraestructura TI, destacando en la administración de redes corporativas (LAN/WAN), configuración de servidores locales e implementación de medidas de seguridad perimetral."
+                        },
+
+                        "fr": {
+                            "description": "Depuis 8 ans, je conçois des interfaces UX intuitives, naturelles et fluides sur différents appareils. Ce qui me passionne, c'est de créer des expériences numériques qui sont non seulement esthétiques, mais aussi parfaitement fonctionnelles, rendant chaque interaction plus fluide et agréable."
+                        },
+
+                        "zh": {
+                            "description": "作为一名拥有十多年扎实职业生涯的全栈开发人员，我在技术解决方案的设计、实施和优化方面积累了全面的专业知识。我的专业知识涵盖关键语言和框架，例如 PHP（专攻 Laravel 和 CodeIgniter）、JavaScript（Vue.js、jQuery）和关系数据库管理系统（MySQL、PostgreSQL、SQL Server）。在我的整个职业生涯中，我领导了关键业务系统的开发，包括运营管理平台、用于移动应用程序集成的 RESTful API 和先进的生物识别模块。我以 IT 基础设施能力补充我的编程技能，专注于企业网络管理（LAN/WAN）、本地服务器配置和外围安全措施的实施。我的专业方法以方法严谨、解决复杂问题的分析能力以及对技术卓越的明显承诺为特点。我拥有通过成功领导开发项目验证的领导技能，始终致力于为组织创造有形价值。目前，我正在寻找机会在需要创新、高影响力解决方案的技术挑战环境中贡献我的知识."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "I believe that good design should enhance people's lives, helping them navigate technology with ease and confidence. Let’s work together to bring ideas to life and build something truly amazing!"
+                        },
+
+                        "es": {
+                            "description": "Mi enfoque profesional se caracteriza por el rigor metodológico, la capacidad de análisis para la resolución de problemas complejos y un compromiso demostrable con la excelencia técnica. Poseo habilidades de liderazgo validadas mediante la dirección exitosa de proyectos de desarrollo, siempre orientados a la creación de valor tangible para las organizaciones. Actualmente, busco oportunidades para contribuir con mi conocimiento en entornos tecnológicamente desafiantes que demanden soluciones innovadoras y de alto impacto."
+                        },
+
+                        "fr": {
+                            "description": "Je suis convaincu qu’un bon design doit améliorer la vie des gens en leur permettant d’utiliser la technologie avec facilité et confiance. Travaillons ensemble pour donner vie à de nouvelles idées et créer quelque chose d’exceptionnel !"
+                        },
+
+                        "zh": {
+                            "description": "我坚信优秀的设计应该提升人们的生活，让他们能够轻松、自信地使用科技。无论是网站、应用还是复杂系统，我都致力于打造能真正与用户产生深层连接的产品。让我们携手合作，将想法变为现实，创造非凡的作品！"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

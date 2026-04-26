@@ -1,0 +1,412 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": null},
+                "es": {"title": null},
+                "fr": {"title": null},
+                "zh": {"title": null}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": true,
+                "chart": "pie"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-users",
+                    "fallbackFaIconColor": "#FF6384",
+                    "percentage": 15,
+                    "locales": {
+                        "en": {
+                            "title": "Family Time",
+                            "description": "Quality time dedicated to loved ones, building meaningful connections and lasting memories.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Tiempo en Familia",
+                            "description": "Tiempo de calidad dedicado a los seres queridos, construyendo conexiones significativas y recuerdos duraderos.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Temps Familial",
+                            "description": "Temps de qualité dédié aux proches, tissant des liens significatifs et des souvenirs durables.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "家庭时光",
+                            "description": "专注于亲人的优质时光，建立有意义的联系和持久的回忆。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-tasks",
+                    "fallbackFaIconColor": "#36A2EB",
+                    "percentage": 29,
+                    "locales": {
+                        "en": {
+                            "title": "Personal Projects",
+                            "description": "Dedicated time to develop innovative ideas and transform concepts into tangible solutions.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Proyectos Personales",
+                            "description": "Tiempo dedicado al desarrollo de ideas innovadoras y a la transformación de conceptos en soluciones tangibles.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Projets Personnels",
+                            "description": "Temps consacré au développement d'idées innovantes et à la transformation de concepts en solutions concrètes.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "个人项目",
+                            "description": "致力于开发创新理念，将概念转化为切实可行的解决方案。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-couch",
+                    "fallbackFaIconColor": "#FFCD56",
+                    "percentage": 11,
+                    "locales": {
+                        "en": {
+                            "title": "Rest & Mindfulness",
+                            "description": "Practicing meditation and seeking balance through the principles of mindfulness and tranquility.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Descanso y Mindfulness",
+                            "description": "Práctica de meditación y búsqueda de equilibrio a través de los principios de atención plena y tranquilidad.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Repos et Pleine Conscience",
+                            "description": "Pratique de la méditation et recherche d'équilibre à travers les principes de pleine conscience et de tranquillité.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "休息与正念",
+                            "description": "通过冥想练习，遵循正念与宁静的原则，寻求内心的平衡。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-book",
+                    "fallbackFaIconColor": "#C5B0FF",
+                    "percentage": 9,
+                    "locales": {
+                        "en": {
+                            "title": "Continuous Learning",
+                            "description": "Engaging in ongoing education to acquire new skills and deepen existing knowledge.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Aprendizaje Continuo",
+                            "description": "Participación en formación continua para adquirir nuevas competencias y profundizar en conocimientos existentes.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Apprentissage Continu",
+                            "description": "Engagement dans une formation continue pour acquérir de nouvelles compétences et approfondir les connaissances existantes.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "持续学习",
+                            "description": "参与持续教育，获取新技能并深化现有知识。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-dumbbell",
+                    "fallbackFaIconColor": "#8EE3C5",
+                    "percentage": 17,
+                    "locales": {
+                        "en": {
+                            "title": "Physical Wellness",
+                            "description": "Dedicating time to physical health and maintaining an active, balanced lifestyle.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Bienestar Físico",
+                            "description": "Dedicación a la salud física y mantenimiento de un estilo de vida activo y equilibrado.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Bien-être Physique",
+                            "description": "Temps dédié à la santé physique et au maintien d'un mode de vie actif et équilibré.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "身体健康",
+                            "description": "致力于身体健康，保持积极平衡的生活方式。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-utensils",
+                    "fallbackFaIconColor": "#EEB79A",
+                    "percentage": 19,
+                    "locales": {
+                        "en": {
+                            "title": "Culinary Arts",
+                            "description": "Exploring gastronomic creativity and perfecting techniques to craft exceptional dishes.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Artes Culinarias",
+                            "description": "Exploración de la creatividad gastronómica y perfeccionamiento de técnicas para elaborar platos excepcionales.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Arts Culinaires",
+                            "description": "Exploration de la créativité gastronomique et perfectionnement des techniques pour élaborer des plats d'exception.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "烹饪艺术",
+                            "description": "探索美食创意，精进烹饪技巧，打造非凡佳肴。",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Professional Interests"
+                },
+                "es": {
+                    "title": "Intereses Profesionales"
+                },
+                "fr": {
+                    "title": "Intérêts Professionnels"
+                },
+                "zh": {
+                    "title": "专业兴趣"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "transparent_item_icon_background": false,
+                "small_icons": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-paint-brush",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "User Experience Design",
+                            "description": "Specialized in crafting intuitive, user-centered digital experiences that enhance accessibility and drive user satisfaction.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Diseño de Experiencia de Usuario",
+                            "description": "Especializado en la creación de experiencias digitales intuitivas y centradas en el usuario que mejoran la accesibilidad y aumentan la satisfacción.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Conception d'Expérience Utilisateur",
+                            "description": "Spécialisé dans la création d'expériences numériques intuitives et centrées sur l'utilisateur, améliorant l'accessibilité et la satisfaction.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "用户体验设计",
+                            "description": "专注于打造直观、以用户为中心的数字体验，提升可访问性并驱动用户满意度。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-keyboard",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Software Development",
+                            "description": "Exploring algorithms, system architecture, and building robust software solutions for real-world challenges.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Desarrollo de Software",
+                            "description": "Exploración de algoritmos, arquitectura de sistemas y construcción de soluciones robustas para desafíos reales.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Développement Logiciel",
+                            "description": "Exploration d'algorithmes, d'architecture système et construction de solutions logicielles robustes pour des défis concrets.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "软件开发",
+                            "description": "探索算法、系统架构，为现实挑战构建稳健的软件解决方案。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-dog",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Canine Education",
+                            "description": "Learning the art of working with dogs, addressing behavioral challenges, and fostering mutual understanding.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Educación Canina",
+                            "description": "Aprendizaje del arte de trabajar con perros, abordando desafíos conductuales y fomentando la comprensión mutua.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Éducation Canine",
+                            "description": "Apprentissage de l'art de travailler avec les chiens, en relevant les défis comportementaux et en favorisant la compréhension mutuelle.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "犬类教育",
+                            "description": "学习与犬类工作的艺术，应对行为挑战，促进相互理解。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-desktop",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Front-End Development",
+                            "description": "Building interactive, responsive web interfaces using modern frameworks to deliver seamless user experiences.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Desarrollo Front-End",
+                            "description": "Construcción de interfaces web interactivas y responsivas utilizando frameworks modernos para ofrecer experiencias de usuario fluidas.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Développement Front-End",
+                            "description": "Création d'interfaces web interactives et responsives avec des frameworks modernes pour offrir des expériences utilisateur fluides.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "前端开发",
+                            "description": "使用现代框架构建交互式响应式网页界面，提供无缝用户体验。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-palette",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Visual Arts",
+                            "description": "Exploring visual aesthetics, graphic design principles, and creative expression through artistic projects.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Artes Visuales",
+                            "description": "Exploración de la estética visual, principios de diseño gráfico y expresión creativa a través de proyectos artísticos.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Arts Visuels",
+                            "description": "Exploration de l'esthétique visuelle, des principes de design graphique et de l'expression créative à travers des projets artistiques.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "视觉艺术",
+                            "description": "通过艺术项目探索视觉美学、平面设计原则和创意表达。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-newspaper",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Thought Leadership",
+                            "description": "Publishing articles on leadership, learning methodologies, and technology. Guest contributor to various podcasts.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Liderazgo de Pensamiento",
+                            "description": "Publicación de artículos sobre liderazgo, metodologías de aprendizaje y tecnología. Colaborador invitado en diversos podcasts.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Leadership d'Opinion",
+                            "description": "Publication d'articles sur le leadership, les méthodologies d'apprentissage et la technologie. Collaborateur invité à divers podcasts.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "思想领导力",
+                            "description": "发表关于领导力、学习方法论和技术的文章。担任多个播客的特约嘉宾。",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

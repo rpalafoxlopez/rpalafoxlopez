@@ -1,0 +1,99 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2008, "month": 8},
+                    "dateEnd": {"year": 2012, "month": 12},
+                    "img": "images/places/LOGO-UPP-HD-293x300.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor's Degree in Computer Engineering",
+                            "description": "Completed a comprehensive program in computer science, covering programming, algorithms, data structures, and computational analysis. Gained practical skills in problem-solving, process optimization, and logical thinking. Experience in projects involving software development and the design of effective technological solutions.",
+                            "province": "Puebla",
+                            "country": "Mexico",
+                            "institution": "Universidad Politécnica de Puebla",
+                            "tags": ["Programming", "Algorithms", "Data Structures", "Software Development"]
+                        },
+                        "es": {
+                            "title": "Ingeniería en Informática",
+                            "description": "Graduado en informática que abarca programación, algoritmos, estructuras de datos y análisis computacional. Desarrollé habilidades prácticas en resolución de problemas, optimización de procesos y pensamiento lógico. Experiencia en proyectos que integran desarrollo de software y diseño de soluciones tecnológicas eficaces.",
+                            "province": "Puebla",
+                            "country": "México",
+                            "institution": "Universidad Politécnica de Puebla",
+                            "tags": ["Programación", "Algoritmos", "Estructuras de Datos", "Desarrollo de Software"]
+                        },
+                        "fr": {
+                            "title": "Licence en Génie Informatique",
+                            "description": "J'ai suivi un programme complet en informatique, couvrant la programmation, les algorithmes, les structures de données et l'analyse computationnelle. J'ai acquis des compétences pratiques en résolution de problèmes, en optimisation des processus et en pensée logique. Expérience dans des projets impliquant le développement de logiciels et la conception de solutions technologiques efficaces.",
+                            "province": "Puebla",
+                            "country": "Mexique",
+                            "institution": "Universidad Politécnica de Puebla",
+                            "tags": ["Programmation", "Algorithmes", "Structures de Données", "Développement Logiciel"]
+                        },
+                        "zh": {
+                            "title": "计算机工程学士学位",
+                            "description": "完成了全面的计算机科学课程，涵盖编程、算法、数据结构和计算分析。在解决问题、流程优化和逻辑思维方面获得了实践技能。在涉及软件开发和有效技术解决方案设计的项目中积累了经验。",
+                            "province": "普埃布拉",
+                            "country": "墨西哥",
+                            "institution": "普埃布拉理工大学",
+                            "tags": ["编程", "算法", "数据结构", "软件开发"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2023, "month": 1},
+                    "dateEnd": {"year": 2023, "month": 12},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "fallbackFaIconColor": "#FF2D20",
+                    "locales": {
+                        "en": {
+                            "title": "Advanced Laravel & Vue.js Course",
+                            "description": "Continuous training in Tailwind CSS, Vue 3, and Laravel for integration of technical improvements into team projects (mentioned in Digizent experience).",
+                            "province": "Online",
+                            "country": "Mexico",
+                            "institution": "Continuous Education",
+                            "tags": ["Laravel", "Vue 3", "Tailwind CSS"]
+                        },
+                        "es": {
+                            "title": "Curso Avanzado de Laravel y Vue.js",
+                            "description": "Capacitación continua en Tailwind CSS, Vue 3 y Laravel para integración de mejoras técnicas en los proyectos del equipo (mencionado en experiencia Digizent).",
+                            "province": "En línea",
+                            "country": "México",
+                            "institution": "Educación Continua",
+                            "tags": ["Laravel", "Vue 3", "Tailwind CSS"]
+                        },
+                        "fr": {
+                            "title": "Cours Avancé Laravel & Vue.js",
+                            "description": "Formation continue en Tailwind CSS, Vue 3 et Laravel pour l'intégration d'améliorations techniques dans les projets d'équipe (mentionné dans l'expérience Digizent).",
+                            "province": "En ligne",
+                            "country": "Mexique",
+                            "institution": "Formation Continue",
+                            "tags": ["Laravel", "Vue 3", "Tailwind CSS"]
+                        },
+                        "zh": {
+                            "title": "高级Laravel和Vue.js课程",
+                            "description": "持续学习Tailwind CSS、Vue 3和Laravel，将技术改进整合到团队项目中（在Digizent工作经验中提及）。",
+                            "province": "在线",
+                            "country": "墨西哥",
+                            "institution": "继续教育",
+                            "tags": ["Laravel", "Vue 3", "Tailwind CSS"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

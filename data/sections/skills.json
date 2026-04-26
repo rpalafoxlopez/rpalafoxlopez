@@ -1,0 +1,759 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-cubes",
+                    "fallbackFaIconColor": "#3B82F6",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Software Architecture",
+                            "description": "Expert in designing complex systems using DDD, Onion Architecture, and CQRS. Proven experience implementing multi-tenancy and scalable SaaS platforms.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Arquitectura de Software",
+                            "description": "Experto en el diseño de sistemas complejos utilizando DDD, Arquitectura Onion y CQRS. Experiencia comprobada implementando multi-tenencia y plataformas SaaS escalables.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Architecture Logicielle",
+                            "description": "Expert en conception de systèmes complexes utilisant DDD, Architecture Onion et CQRS. Expérience prouvée dans l'implémentation de multi-tenant et de plateformes SaaS évolutives.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "软件架构",
+                            "description": "擅长使用DDD、洋葱架构和CQRS设计复杂系统。在多租户实现和可扩展SaaS平台方面有 proven 经验。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-code-branch",
+                    "fallbackFaIconColor": "#10B981",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "SOLID & Clean Code",
+                            "description": "Strong advocate of SOLID principles, PSR standards, and clean code practices. Consistently deliver maintainable, testable, and scalable solutions.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "SOLID y Código Limpio",
+                            "description": "Firme defensor de los principios SOLID, estándares PSR y prácticas de código limpio. Entrego consistentemente soluciones mantenibles, comprobables y escalables.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "SOLID et Code Propre",
+                            "description": "Défenseur des principes SOLID, des normes PSR et des pratiques de code propre. Je fournis constamment des solutions maintenables, testables et évolutives.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "SOLID与整洁代码",
+                            "description": "坚定倡导SOLID原则、PSR标准和整洁代码实践。持续交付可维护、可测试和可扩展的解决方案。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-users-gear",
+                    "fallbackFaIconColor": "#8B5CF6",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Technical Leadership",
+                            "description": "Lead cross-functional teams, define engineering standards, conduct code reviews, and mentor developers. Drive technical excellence and project delivery.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Liderazgo Técnico",
+                            "description": "Lidero equipos multifuncionales, defino estándares de ingeniería, realizo revisiones de código y oriento a desarrolladores. Impulso la excelencia técnica y la entrega de proyectos.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Leadership Technique",
+                            "description": "Je dirige des équipes pluridisciplinaires, définis les normes d'ingénierie, effectue des revues de code et encadre les développeurs. Je favorise l'excellence technique et la livraison de projets.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "技术领导力",
+                            "description": "领导跨职能团队，定义工程标准，进行代码审查，指导开发人员。推动技术卓越和项目交付。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-cloud-arrow-up",
+                    "fallbackFaIconColor": "#EF4444",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "DevOps & Infrastructure",
+                            "description": "Experienced with Docker, Ubuntu Server, Nginx, OpenVPN, and MongoDB Replica Sets. Configure production environments and automate deployments.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "DevOps e Infraestructura",
+                            "description": "Experiencia con Docker, Ubuntu Server, Nginx, OpenVPN y MongoDB Replica Sets. Configuro entornos de producción y automatizo despliegues.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "DevOps et Infrastructure",
+                            "description": "Expérimenté avec Docker, Ubuntu Server, Nginx, OpenVPN et les Replica Sets MongoDB. Je configure des environnements de production et automatise les déploiements.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "DevOps与基础设施",
+                            "description": "熟悉Docker、Ubuntu Server、Nginx、OpenVPN和MongoDB副本集。配置生产环境并自动化部署。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-robot",
+                    "fallbackFaIconColor": "#6B7280",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "AI Integrations",
+                            "description": "Integrate OpenAI and Anthropic APIs for predictive analytics, automated reporting, and intelligent assistants. Build AI-powered features into SaaS products.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Integraciones de IA",
+                            "description": "Integro APIs de OpenAI y Anthropic para análisis predictivo, reportes automatizados y asistentes inteligentes. Implemento funcionalidades basadas en IA en productos SaaS.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Intégrations IA",
+                            "description": "J'intègre les API OpenAI et Anthropic pour l'analyse prédictive, les rapports automatisés et les assistants intelligents. Je développe des fonctionnalités basées sur l'IA dans les produits SaaS.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "人工智能集成",
+                            "description": "集成OpenAI和Anthropic API，用于预测分析、自动化报告和智能助手。在SaaS产品中构建基于AI的功能。",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-whatsapp",
+                    "fallbackFaIconColor": "#25D366",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Omnichannel Communication",
+                            "description": "Implement WhatsApp Cloud API, n8n automation workflows, and multi-channel messaging strategies for enhanced customer engagement.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Comunicación Omnicanal",
+                            "description": "Implemento WhatsApp Cloud API, flujos de automatización con n8n y estrategias de mensajería multicanal para mejorar el engagement con clientes.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Communication Omnicanale",
+                            "description": "J'implémente l'API WhatsApp Cloud, des flux d'automatisation n8n et des stratégies de messagerie multicanal pour améliorer l'engagement client.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "全渠道通信",
+                            "description": "实现WhatsApp Cloud API、n8n自动化工作流和多渠道消息策略，以增强客户参与度。",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Backend Stack"},
+                "es": {"title": "Stack Backend"},
+                "fr": {"title": "Stack Backend"},
+                "zh": {"title": "后端技术栈"}
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2011, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-php",
+                    "fallbackFaIconColor": "#777BB4",
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "PHP 8.x",
+                            "description": "Expert in modern PHP with strict typing, OOP, and PSR standards. Extensive experience across PHP 4 to 8."
+                        },
+                        "es": {
+                            "title": "PHP 8.x",
+                            "description": "Experto en PHP moderno con tipado estricto, POO y estándares PSR. Amplia experiencia de PHP 4 a 8."
+                        },
+                        "fr": {
+                            "title": "PHP 8.x",
+                            "description": "Expert en PHP moderne avec typage strict, POO et normes PSR. Vaste expérience de PHP 4 à 8."
+                        },
+                        "zh": {
+                            "title": "PHP 8.x",
+                            "description": "现代PHP专家，精通严格类型、OOP和PSR标准。拥有从PHP 4到8的丰富经验。"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2013, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "fallbackFaIconColor": "#FF2D20",
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "Laravel 4-11",
+                            "description": "Mastery of Laravel ecosystem including Octane/Swoole, Horizon, and multi-tenancy with stancl/tenancy."
+                        },
+                        "es": {
+                            "title": "Laravel 4-11",
+                            "description": "Dominio del ecosistema Laravel incluyendo Octane/Swoole, Horizon y multi-tenencia con stancl/tenancy."
+                        },
+                        "fr": {
+                            "title": "Laravel 4-11",
+                            "description": "Maîtrise de l'écosystème Laravel incluant Octane/Swoole, Horizon et multi-tenant avec stancl/tenancy."
+                        },
+                        "zh": {
+                            "title": "Laravel 4-11",
+                            "description": "精通Laravel生态系统，包括Octane/Swoole、Horizon以及使用stancl/tenancy的多租户架构。"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2015, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": "#4479A1",
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "MySQL & SQL Server",
+                            "description": "Advanced query optimization, schema design, stored procedures, and database administration."
+                        },
+                        "es": {
+                            "title": "MySQL y SQL Server",
+                            "description": "Optimización avanzada de consultas, diseño de esquemas, procedimientos almacenados y administración de bases de datos."
+                        },
+                        "fr": {
+                            "title": "MySQL et SQL Server",
+                            "description": "Optimisation avancée des requêtes, conception de schémas, procédures stockées et administration de bases de données."
+                        },
+                        "zh": {
+                            "title": "MySQL 和 SQL Server",
+                            "description": "高级查询优化、模式设计、存储过程和数据库管理。"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2020, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-leaf",
+                    "fallbackFaIconColor": "#47A248",
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "description": "Design and manage Replica Sets, aggregation pipelines, and integrate with Laravel for scalable data solutions."
+                        },
+                        "es": {
+                            "title": "MongoDB",
+                            "description": "Diseño y administración de Replica Sets, pipelines de agregación e integración con Laravel para soluciones escalables."
+                        },
+                        "fr": {
+                            "title": "MongoDB",
+                            "description": "Conception et gestion de Replica Sets, pipelines d'agrégation et intégration avec Laravel pour des solutions évolutives."
+                        },
+                        "zh": {
+                            "title": "MongoDB",
+                            "description": "设计和管理副本集、聚合管道，并与Laravel集成以实现可扩展的数据解决方案。"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2018, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": "#DC382D",
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "REST APIs",
+                            "description": "Design, document, and maintain robust RESTful APIs following OpenAPI standards and best practices."
+                        },
+                        "es": {
+                            "title": "REST APIs",
+                            "description": "Diseño, documentación y mantenimiento de APIs RESTful robustas siguiendo estándares OpenAPI y buenas prácticas."
+                        },
+                        "fr": {
+                            "title": "APIs REST",
+                            "description": "Conception, documentation et maintenance d'APIs RESTful robustes suivant les normes OpenAPI et les bonnes pratiques."
+                        },
+                        "zh": {
+                            "title": "REST API",
+                            "description": "遵循OpenAPI标准和最佳实践，设计、文档化和维护健壮的RESTful API。"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2022, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-memory",
+                    "fallbackFaIconColor": "#DC382D",
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Redis & Horizon",
+                            "description": "Implement caching, queues, and real-time features using Redis and Laravel Horizon for job management."
+                        },
+                        "es": {
+                            "title": "Redis y Horizon",
+                            "description": "Implementación de caching, colas y funcionalidades en tiempo real usando Redis y Laravel Horizon para gestión de jobs."
+                        },
+                        "fr": {
+                            "title": "Redis et Horizon",
+                            "description": "Mise en œuvre de caching, files d'attente et fonctionnalités temps réel avec Redis et Laravel Horizon pour la gestion des jobs."
+                        },
+                        "zh": {
+                            "title": "Redis 和 Horizon",
+                            "description": "使用Redis和Laravel Horizon实现缓存、队列和实时功能，用于任务管理。"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Frontend Stack"},
+                "es": {"title": "Stack Frontend"},
+                "fr": {"title": "Stack Frontend"},
+                "zh": {"title": "前端技术栈"}
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2018, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": "#4FC08D",
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Vue 3 & Vuetify",
+                            "description": "Build reactive SPAs with Composition API, Pinia, Vuetify 3, and Vue Flow for complex visual builders."
+                        },
+                        "es": {
+                            "title": "Vue 3 y Vuetify",
+                            "description": "Construcción de SPA reactivas con Composition API, Pinia, Vuetify 3 y Vue Flow para constructores visuales complejos."
+                        },
+                        "fr": {
+                            "title": "Vue 3 et Vuetify",
+                            "description": "Construction de SPA réactives avec Composition API, Pinia, Vuetify 3 et Vue Flow pour des constructeurs visuels complexes."
+                        },
+                        "zh": {
+                            "title": "Vue 3 和 Vuetify",
+                            "description": "使用Composition API、Pinia、Vuetify 3和Vue Flow构建响应式单页应用和复杂可视化构建器。"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2017, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-js",
+                    "fallbackFaIconColor": "#F7DF1E",
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript & jQuery",
+                            "description": "Strong proficiency in vanilla JS, ES6+, jQuery, and interactive DOM manipulation."
+                        },
+                        "es": {
+                            "title": "JavaScript y jQuery",
+                            "description": "Alta competencia en JS vanilla, ES6+, jQuery y manipulación interactiva del DOM."
+                        },
+                        "fr": {
+                            "title": "JavaScript et jQuery",
+                            "description": "Haute compétence en JS vanilla, ES6+, jQuery et manipulation interactive du DOM."
+                        },
+                        "zh": {
+                            "title": "JavaScript 和 jQuery",
+                            "description": "熟练掌握原生JS、ES6+、jQuery和交互式DOM操作。"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2022, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-livewire",
+                    "fallbackFaIconColor": "#FB70A9",
+                    "percentage": 88,
+                    "locales": {
+                        "en": {
+                            "title": "Livewire 3",
+                            "description": "Build dynamic interfaces without leaving Laravel. Full-stack reactivity with server-side rendering."
+                        },
+                        "es": {
+                            "title": "Livewire 3",
+                            "description": "Construcción de interfaces dinámicas sin salir de Laravel. Reactividad full-stack con renderizado del lado servidor."
+                        },
+                        "fr": {
+                            "title": "Livewire 3",
+                            "description": "Construisez des interfaces dynamiques sans quitter Laravel. Réactivité full-stack avec rendu côté serveur."
+                        },
+                        "zh": {
+                            "title": "Livewire 3",
+                            "description": "无需离开Laravel即可构建动态界面。具有服务端渲染的全栈响应式。"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2015, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIconColor": "#1572B6",
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "CSS3 & Tailwind",
+                            "description": "Responsive layouts, animations, Flexbox, Grid, and Tailwind utility-first approach."
+                        },
+                        "es": {
+                            "title": "CSS3 y Tailwind",
+                            "description": "Diseños responsivos, animaciones, Flexbox, Grid y enfoque utility-first de Tailwind."
+                        },
+                        "fr": {
+                            "title": "CSS3 et Tailwind",
+                            "description": "Mises en page responsives, animations, Flexbox, Grid et approche utility-first de Tailwind."
+                        },
+                        "zh": {
+                            "title": "CSS3 和 Tailwind",
+                            "description": "响应式布局、动画、Flexbox、Grid以及Tailwind的实用优先方法。"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2017, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIconColor": "#E34F26",
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "HTML5",
+                            "description": "Semantic markup, accessibility (WAI-ARIA), SEO optimization, and modern web standards."
+                        },
+                        "es": {
+                            "title": "HTML5",
+                            "description": "Marcado semántico, accesibilidad (WAI-ARIA), optimización SEO y estándares web modernos."
+                        },
+                        "fr": {
+                            "title": "HTML5",
+                            "description": "Balises sémantiques, accessibilité (WAI-ARIA), optimisation SEO et normes web modernes."
+                        },
+                        "zh": {
+                            "title": "HTML5",
+                            "description": "语义标记、可访问性（WAI-ARIA）、SEO优化和现代Web标准。"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "DevOps & Infrastructure"},
+                "es": {"title": "DevOps e Infraestructura"},
+                "fr": {"title": "DevOps et Infrastructure"},
+                "zh": {"title": "DevOps与基础设施"}
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2018, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-docker",
+                    "fallbackFaIconColor": "#2496ED",
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Docker & Compose",
+                            "description": "Containerize applications, orchestrate multi-service stacks, and manage with Portainer CE."
+                        },
+                        "es": {
+                            "title": "Docker y Compose",
+                            "description": "Contenerización de aplicaciones, orquestación de stacks multi-servicio y gestión con Portainer CE."
+                        },
+                        "fr": {
+                            "title": "Docker et Compose",
+                            "description": "Conteneurisation d'applications, orchestration de stacks multi-services et gestion avec Portainer CE."
+                        },
+                        "zh": {
+                            "title": "Docker 和 Compose",
+                            "description": "容器化应用、编排多服务栈，并使用Portainer CE进行管理。"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2015, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-ubuntu",
+                    "fallbackFaIconColor": "#E95420",
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Ubuntu Server",
+                            "description": "Configure production environments, security hardening, dual-node clusters, and Nginx web servers."
+                        },
+                        "es": {
+                            "title": "Ubuntu Server",
+                            "description": "Configuración de entornos productivos, hardening de seguridad, clusters dual-node y servidores web Nginx."
+                        },
+                        "fr": {
+                            "title": "Ubuntu Server",
+                            "description": "Configuration d'environnements de production, durcissement de sécurité, clusters dual-node et serveurs web Nginx."
+                        },
+                        "zh": {
+                            "title": "Ubuntu Server",
+                            "description": "配置生产环境、安全加固、双节点集群和Nginx Web服务器。"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2020, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-shield-virus",
+                    "fallbackFaIconColor": "#FF9900",
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "OpenVPN & PKI",
+                            "description": "Implement secure VPN tunnels, certificate authority management, and network segmentation."
+                        },
+                        "es": {
+                            "title": "OpenVPN y PKI",
+                            "description": "Implementación de túneles VPN seguros, gestión de autoridad certificadora y segmentación de red."
+                        },
+                        "fr": {
+                            "title": "OpenVPN et PKI",
+                            "description": "Mise en œuvre de tunnels VPN sécurisés, gestion d'autorité de certification et segmentation réseau."
+                        },
+                        "zh": {
+                            "title": "OpenVPN 和 PKI",
+                            "description": "实现安全的VPN隧道、证书颁发机构管理和网络分段。"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2021, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-git-alt",
+                    "fallbackFaIconColor": "#F05032",
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Git & GitHub",
+                            "description": "Advanced version control, branching strategies, CI/CD workflows, and collaborative development."
+                        },
+                        "es": {
+                            "title": "Git y GitHub",
+                            "description": "Control de versiones avanzado, estrategias de branching, flujos CI/CD y desarrollo colaborativo."
+                        },
+                        "fr": {
+                            "title": "Git et GitHub",
+                            "description": "Contrôle de version avancé, stratégies de branchement, flux CI/CD et développement collaboratif."
+                        },
+                        "zh": {
+                            "title": "Git 和 GitHub",
+                            "description": "高级版本控制、分支策略、CI/CD工作流和协作开发。"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Professional Certifications & Interests"},
+                "es": {"title": "Certificaciones e Intereses Profesionales"},
+                "fr": {"title": "Certifications et Intérêts Professionnels"},
+                "zh": {"title": "专业认证与兴趣"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "small_icons": true,
+                "transparent_item_icon_background": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": "images/flags/us.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "description": "Professional working proficiency. Experience in international environments (Germany). Able to lead technical discussions and document architecture in English.",
+                            "level": "Advanced"
+                        },
+                        "es": {
+                            "title": "Inglés",
+                            "description": "Dominio profesional. Experiencia en entornos internacionales (Alemania). Capaz de liderar discusiones técnicas y documentar arquitectura en inglés.",
+                            "level": "Avanzado"
+                        },
+                        "fr": {
+                            "title": "Anglais",
+                            "description": "Compétence professionnelle. Expérience en environnements internationaux (Allemagne). Capable de mener des discussions techniques et de documenter l'architecture en anglais.",
+                            "level": "Avancé"
+                        },
+                        "zh": {
+                            "title": "英语",
+                            "description": "专业工作水平。具有国际环境（德国）经验。能够用英语领导技术讨论和编写架构文档。",
+                            "level": "高级"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": "images/flags/es.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Spanish",
+                            "description": "Native speaker. Excellent communication and technical writing skills for documentation and client interactions.",
+                            "level": "Native"
+                        },
+                        "es": {
+                            "title": "Español",
+                            "description": "Lengua nativa. Excelentes habilidades de comunicación y redacción técnica para documentación e interacción con clientes.",
+                            "level": "Nativo"
+                        },
+                        "fr": {
+                            "title": "Espagnol",
+                            "description": "Langue maternelle. Excellentes compétences en communication et rédaction technique pour documentation et interactions clients.",
+                            "level": "Langue maternelle"
+                        },
+                        "zh": {
+                            "title": "西班牙语",
+                            "description": "母语水平。出色的沟通和技术写作能力，用于文档编写和客户互动。",
+                            "level": "母语"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-newspaper",
+                    "fallbackFaIconColor": "#2563EB",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Tech Writing & Podcasts",
+                            "description": "Publish articles on leadership, learning methodologies, and technology. Guest contributor to various industry podcasts.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Escritura Técnica y Podcasts",
+                            "description": "Publicación de artículos sobre liderazgo, metodologías de aprendizaje y tecnología. Colaborador invitado en diversos podcasts de la industria.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Rédaction Technique et Podcasts",
+                            "description": "Publication d'articles sur le leadership, les méthodologies d'apprentissage et la technologie. Collaborateur invité à divers podcasts de l'industrie.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "技术写作与播客",
+                            "description": "发表关于领导力、学习方法论和技术的文章。担任多个行业播客的特约嘉宾。",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
