@@ -1,15 +1,14 @@
 @import "variables";
 @import "mixins";
 
-// importing bootstrap
-@import "/node_modules/bootstrap/scss/bootstrap";
+// Bootstrap (usando el alias que creamos)
+@import "~bootstrap/scss/bootstrap";
 
-// importing core styling file
-@import "/node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
-// our project needs Solid + Brands
-@import "/node_modules/@fortawesome/fontawesome-free/scss/solid.scss";
-@import "/node_modules/@fortawesome/fontawesome-free/scss/regular.scss";
-@import "/node_modules/@fortawesome/fontawesome-free/scss/brands.scss";
+// Font Awesome (usando el alias que creamos)
+@import "~fontawesome/scss/fontawesome";
+@import "~fontawesome/scss/solid";
+@import "~fontawesome/scss/regular";
+@import "~fontawesome/scss/brands";
 
 @import "layout";
 @import "typography";
