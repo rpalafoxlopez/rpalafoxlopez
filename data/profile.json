@@ -5,19 +5,19 @@
     "locales": {
         "en": {
             "credits": "Designed by <strong><a href='https://github.com/rpalafoxlopez'>Rafael Palafox López</a></strong>",
-            "role": "Software Architect & Tech Lead"
+            "role": "Software Architect & Tech Lead & Sr. Developer"
         },
         "es": {
             "credits": "Diseñado por <strong><a href='https://github.com/rpalafoxlopez'>Rafael Palafox López</a></strong>",
-            "role": "Arquitecto de Software & Tech Lead"
+            "role": "Arquitecto de Software & Tech Lead  & Sr. Developer"
         },
         "fr": {
             "credits": "Conçu par <strong><a href='https://github.com/rpalafoxlopez'>Rafael Palafox López</a></strong>",
-            "role": "Architecte Logiciel & Tech Lead"
+            "role": "Architecte Logiciel & Tech Lead  & Sr. Developer"
         },
         "zh": {
             "credits": "设计：<strong><a href='https://github.com/rpalafoxlopez'>Rafael Palafox López</a></strong>",
-            "role": "软件架构师 & 技术负责人"
+            "role": "软件架构师 & 技术负责人  & Sr. Developer"
         }
     },
 
