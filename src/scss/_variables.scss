@@ -5,33 +5,37 @@ $fa-font-path:"@fortawesome/fontawesome-free/webfonts";
 $min-contrast-ratio: 1.5 !default;
 
 /** Typography **/
-$font-family-base: 'Saira', sans-serif;
+$font-family-base: 'Fira Code', 'Saira', 'Inter', monospace, sans-serif;
 
 /** Z-Indexes **/
 $z-index-sidebar: 90;
 $z-index-tab-controller: 95;
 $z-index-loader: 99999;
 
-/** Bootstrap Colors **/
-$primary: #2a7f7f;
-$dark: #375f5a;
-$success: #4caf50;
-$danger: #e74c3c;
-$light: 	#f5f6fa;
+/** Bootstrap Colors - Tech Stack Inspired **/
+$primary: #2E9AFF;        // Azul tecnológico (como GitHub, Vercel)
+$secondary: #8B5CF6;      // Púrpura (IA, automatización)
+$dark: #0D1117;           // Negro técnico (como GitHub Dark)
+$success: #10B981;        // Verde éxito (Docker, Laravel)
+$danger: #EF4444;         // Rojo (alertas, debugging)
+$warning: #F59E0B;        // Ámbar (advertencias)
+$info: #06B6D4;           // Cyan (información técnica)
+$light: #F0F6FC;          // Blanco suave (código claro)
 
 /** Layout Colors **/
-$default-section-background: #f5f6fa;
-$loader-background: #2d3436;
-$text-default-color: #2d3436;
+$default-section-background: #0D1117;  // Fondo oscuro profesional
+$loader-background: #0D1117;
+$text-default-color: #F0F6FC;          // Texto claro sobre fondo oscuro
+$text-muted-color: #8B949E;            // Texto secundario
 
-/** Nav Colors **/
-$nav-background: #2d3436;
-$nav-background-selected: lighten($nav-background, 5%);
-$nav-avatar-border-color: lighten($nav-background, 10%);
-$nav-highlight: lighten($primary, 30%);
-$nav-hover: lighten($primary, 30%);
-$nav-selected: lighten($primary, 20%);
-$nav-contrast: #f5f6fa;
+/** Nav Colors - Inspirado en GitHub & VSCode **/
+$nav-background: #161B22;              // Sidebar oscuro
+$nav-background-selected: #1F242F;     // Selección sutil
+$nav-avatar-border-color: #30363D;
+$nav-highlight: $primary;
+$nav-hover: lighten($primary, 15%);
+$nav-selected: $primary;
+$nav-contrast: #F0F6FC;
 $nav-contrast-90: rgba($nav-contrast, 0.9);
 $nav-contrast-80: rgba($nav-contrast, 0.8);
 $nav-contrast-70: rgba($nav-contrast, 0.7);
@@ -42,14 +46,14 @@ $nav-contrast-30: rgba($nav-contrast, 0.3);
 $nav-contrast-20: rgba($nav-contrast, 0.2);
 $nav-contrast-10: rgba($nav-contrast, 0.1);
 
-/** Light Shades **/
-$light-1: #f8f9fa;
-$light-2: #e9ecef;
-$light-3: #dee2e6;
-$light-4: #ced4da;
-$light-5: #adb5bd;
-$light-6: #6c757d;
-$light-7: #495057;
+/** Light Shades - Para tonos intermedios (mantenidos) **/
+$light-1: #F0F6FC;
+$light-2: #E6EDF5;
+$light-3: #D1D9E8;
+$light-4: #B8C5D6;
+$light-5: #9AABC0;
+$light-6: #7A8BA3;
+$light-7: #5C6B82;
 
 $light-shades-palette: (
     $light-1,
@@ -64,7 +68,7 @@ $light-shades-palette: (
 /** Layout Constraints **/
 $navigation-sidebar-breakpoint: "lg";
 $max-content-width: 2500px;
-$default-border-radius: 10px;
+$default-border-radius: 12px;           // Bordes más modernos
 
 /** Layout Constraints - Sidebar **/
 $nav-sidebar-width: 320px;
@@ -91,8 +95,8 @@ $article-timeline-border-width: 7px;
 $article-timeline-border-width-md: 6px;
 $article-timeline-border-width-sm: 5px;
 
-$article-timeline-border-color: $light-3;
-$article-timeline-line-color: $light-4;
+$article-timeline-border-color: $light-4;
+$article-timeline-line-color: $primary;   // Línea de tiempo en azul tecnológico
 $article-timeline-line-width: 3px;
 
 /** ArticleThread Parameters **/
@@ -103,13 +107,13 @@ $article-thread-scale-multipliers: (
     md: 0.9,
     sm: 0.8
 );
-$article-thread-line-color: $article-timeline-line-color;
+$article-thread-line-color: $primary;
 $article-thread-circle-base-size: 32px;
 
-/** Chart JS Customization **/
+/** Chart JS Customization - Tech Dashboard Style **/
 :root {
     --chart-js-border-color: #{$default-section-background};
-    --chart-js-hover-border-color: #{$light};
+    --chart-js-hover-border-color: #{$primary};
     --nav-background-color: #{$nav-background};
 }
 
