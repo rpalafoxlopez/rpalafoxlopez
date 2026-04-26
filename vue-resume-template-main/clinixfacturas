@@ -1,0 +1,72 @@
+{
+    "FechaInicio" : "2025-02-01 00:00:00",
+    "FechaFin" : "2025-02-28 23:59:59",
+    "DownloadType" : "issued",
+    "DocumentType" : "undefined",
+    "DocumentStatus" : "",
+    "RequestType" : "xml",
+    "idSolicitud" : "776a3522-b4aa-4aa2-b460-391f5d6b0b72",
+    "_idRFC" : "6797fc6e78c14fc5f50208d4",
+    "status" : "Solicitud Aceptada",
+    "statusCode" : "pending"
+    },
+    {
+      "FechaInicio" : "2025-02-01 00:00:00",
+    "FechaFin" : "2025-02-28 23:59:59",
+    "DownloadType" : "received",
+    "DocumentType" : "undefined",
+    "DocumentStatus" : "",
+    "RequestType" : "xml",
+    "idSolicitud" : "f5866724-f3eb-4891-8565-c31f5f3c3f3d",
+    "_idRFC" : "6797fc6e78c14fc5f50208d4",
+    "status" : "Solicitud Aceptada",
+    "statusCode" : "pending"
+    }
+    {
+     "FechaInicio" : "2025-03-01 00:00:00",
+    "FechaFin" : "2025-03-31 23:59:59",
+    "DownloadType" : "received",
+    "DocumentType" : "undefined",
+    "DocumentStatus" : "",
+    "RequestType" : "xml",
+    "idSolicitud" : "081a386d-186d-4c08-b590-3caaed797123",
+    "_idRFC" : "6797fc6e78c14fc5f50208d4",
+    "status" : "Solicitud Aceptada",
+    "statusCode" : "pending"
+    },
+    {
+        "FechaInicio" : "2025-04-01 00:00:00",
+    "FechaFin" : "2025-05-01 23:59:59",
+    "DownloadType" : "received",
+    "DocumentType" : "undefined",
+    "DocumentStatus" : "",
+    "RequestType" : "xml",
+    "idSolicitud" : "1821ffd3-7a0f-4502-808f-654dd20b7e40",
+    "_idRFC" : "6797fc6e78c14fc5f50208d4",
+    "status" : "Solicitud Aceptada",
+    "statusCode" : "pending"
+    }
+    {
+        "FechaInicio" : "2025-04-01 00:00:00",
+    "FechaFin" : "2025-05-01 23:59:59",
+    "DownloadType" : "issued",
+    "DocumentType" : "undefined",
+    "DocumentStatus" : "",
+    "RequestType" : "xml",
+    "idSolicitud" : "a26c43cf-7680-4264-a114-81c2acc0a5a1",
+    "_idRFC" : "6797fc6e78c14fc5f50208d4",
+    "status" : "Solicitud Aceptada",
+    "statusCode" : "pending"
+    },
+    {
+        "FechaInicio" : "2025-03-01 00:00:00",
+    "FechaFin" : "2025-03-31 23:59:59",
+    "DownloadType" : "issued",
+    "DocumentType" : "undefined",
+    "DocumentStatus" : "",
+    "RequestType" : "xml",
+    "idSolicitud" : "559fa53d-39db-405c-b4c8-c0acaa68a66d",
+    "_idRFC" : "6797fc6e78c14fc5f50208d4",
+    "status" : "Solicitud Aceptada",
+    "statusCode" : "pending"
+    }

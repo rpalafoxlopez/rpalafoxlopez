@@ -1,0 +1,66 @@
+{
+    "name": "Rafael Palafox López",
+    "profilePictureUrl": "images/pictures/avatar.jpeg",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a href='https://github.com/rpalafoxlopez'>Rafael Palafox López</a></strong>",
+            "role": "WEB Developer"
+        },
+
+        "es": {
+            "credits": "Hecho por <strong><a href='https://github.com/rpalafoxlopez'>Rafael Palafox López</a></strong>",
+            "role": "Desarrollador WEB"
+        },
+
+        "fr": {
+            "credits": "Conçu par <strong><a href='https://github.com/rpalafoxlopez'>Rafael Palafox López</a></strong>",
+            "role": "Développeur Web"
+        },
+
+        "zh": {
+            "credits": "设计：<strong><a href='https://github.com/rpalafoxlopez'>Rafael Palafox López</a></strong>",
+            "role": "网页开发人员"
+        }
+    },
+
+    "contactOptions": [
+        {
+            "id": "address",
+            "value": "Puebla, Pue. México",
+            "valueShort": "Puebla, Pue.",
+            "faIcon": "fa-regular fa-map",
+            "href": null
+        },
+
+        {
+            "id": "email",
+            "value": "rpalafoxlopez@outlook.com",
+            "valueShort": "rpalafoxlopez@outlook.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:rpalafoxlopez@outlook.com"
+        },
+        {
+            "id": "github",
+            "value": "@rpalafoxlopez",
+            "valueShort": "@rpalafoxlopez",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com"
+        },
+        {
+            "id": "linkedin",
+            "value": "@rpalafoxlopez",
+            "valueShort": "@rpalafoxlopez",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com"
+        },
+
+        {
+            "id": "phone",
+            "value": "+52 222 394 29 91",
+            "valueShort": "(222) 394 2991",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:2223942991"
+        }
+    ]
+}
