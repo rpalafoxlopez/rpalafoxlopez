@@ -18,6 +18,14 @@
     {
       "src": "/(.*)",
       "dest": "/README.md"
+    },
+    {
+      "src": "/sections/(.*)",
+      "dest": "/sections/$1"
+    },
+    {
+      "src": "/images/(.*)",
+      "dest": "/images/$1"
     }
   ]
 }
